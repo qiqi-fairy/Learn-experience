@@ -1,2 +1,5 @@
 # 文件夹
 ceshi/
+
+# 忽略文件 REMOND
+/REMOAD.md
